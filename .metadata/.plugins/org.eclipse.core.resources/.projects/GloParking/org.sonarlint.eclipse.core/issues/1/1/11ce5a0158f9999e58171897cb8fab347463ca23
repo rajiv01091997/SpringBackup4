@@ -1,0 +1,34 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÝÀ¸ßüÿÿÿÿH§RMINORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(ÆÑ…‰H¨RMAJORZ
+CODE_SMELL
+X
+java:S1125"'Remove the unnecessary boolean literal.(¾ÕÚîþÿÿÿÿH­RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(™ŸÚ•H¯RMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.( Å·`H°RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(–Šþ§ùÿÿÿÿH±RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(³“ƒ¡H²RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ùì¦˜H³RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(™ŸÚ•H´RMAJORZ
+CODE_SMELL
+U	java:S131 ""Add a default case to this switch.(ãËûÿÿÿÿHµRCRITICALZ
+CODE_SMELL
+d	java:S106%"9Replace this use of System.out or System.err by a logger.(áÐ¨’H¶RMAJORZ
+CODE_SMELL
+d	java:S106'"9Replace this use of System.out or System.err by a logger.(õá¬£H·RMAJORZ
+CODE_SMELL
+d	java:S106+"9Replace this use of System.out or System.err by a logger.(ÏŠÖH¸RMAJORZ
+CODE_SMELL
+d	java:S106."9Replace this use of System.out or System.err by a logger.(™„Ó¦H¹RMAJORZ
+CODE_SMELL
+i	java:S1062"9Replace this use of System.out or System.err by a logger.(—¢þ¢ýÿÿÿÿHºRMAJORZ
+CODE_SMELL
+d	java:S1067"9Replace this use of System.out or System.err by a logger.(æ„ÆŽH»RMAJORZ
+CODE_SMELL

@@ -1,0 +1,38 @@
+
+i	java:S106/"9Replace this use of System.out or System.err by a logger.(ÁÔ”éûÿÿÿÿH†RMAJORZ
+CODE_SMELL
+i	java:S106<"9Replace this use of System.out or System.err by a logger.(‹µõ«úÿÿÿÿH‡RMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(£Á²þÿÿÿÿÿHˆRMAJORZ
+CODE_SMELL
+i	java:S1066"9Replace this use of System.out or System.err by a logger.(ð€§ùÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÝÀ¸ßüÿÿÿÿHŠRMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.( Å·`H‹RMAJORZ
+CODE_SMELL
+i	java:S106E"9Replace this use of System.out or System.err by a logger.(—¢þ¢ýÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(–Šþ§ùÿÿÿÿHRMAJORZ
+CODE_SMELL
+d	java:S106!"9Replace this use of System.out or System.err by a logger.(™ŸÚ•HŽRMAJORZ
+CODE_SMELL
+d	java:S106J"9Replace this use of System.out or System.err by a logger.(æ„ÆŽHRMAJORZ
+CODE_SMELL
+d	java:S106A"9Replace this use of System.out or System.err by a logger.(™„Ó¦HRMAJORZ
+CODE_SMELL
+U	java:S131#""Add a default case to this switch.(ãËûÿÿÿÿH‘RCRITICALZ
+CODE_SMELL
+—
+java:S1128
+"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ËÛüÿÿÿÿ8ßõÒ¯ê0H’RMINORZ
+CODE_SMELL
+X
+java:S1125"'Remove the unnecessary boolean literal.(¾ÕÚîþÿÿÿÿH”RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(³“ƒ¡H–RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(™ŸÚ•H—RMAJORZ
+CODE_SMELL
+d	java:S106 "9Replace this use of System.out or System.err by a logger.(Ùì¦˜H˜RMAJORZ
+CODE_SMELL

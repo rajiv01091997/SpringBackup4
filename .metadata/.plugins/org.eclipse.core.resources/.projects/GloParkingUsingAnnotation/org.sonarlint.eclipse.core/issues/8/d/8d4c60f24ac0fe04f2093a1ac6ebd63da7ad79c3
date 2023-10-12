@@ -1,0 +1,9 @@
+
+b
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHRINFOZ
+CODE_SMELL
+
+java:S1128"IRemove this unused import 'org.springframework.context.annotation.Scope'.(şè®€ÿÿÿÿÿ8ö†³±ı0HRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è§ÃñÿÿÿÿÿH RMINORZ
+CODE_SMELL

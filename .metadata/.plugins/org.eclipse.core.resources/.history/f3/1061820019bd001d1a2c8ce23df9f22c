@@ -1,0 +1,16 @@
+package com.globallogic.model;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Employee {
+
+	private int empId;
+	private String empName;
+	private List<String> listOfColleagues=new ArrayList();
+	
+	private Address address;
+	
+	
+
+}
